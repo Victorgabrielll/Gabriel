@@ -6,4 +6,4 @@ from math import gcd
 x = int(input('Digite o primeiro valor de x '))
 y = int(input('Digite o segundo valor de y '))
 print('O MDC(', x,',', y,') =',(gcd(x, y)))
-#resultado finaç
+#resultado final
